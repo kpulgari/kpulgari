@@ -1,4 +1,5 @@
 # Hey, I'm Kaushik! 👋
 
-- 📚 Currently studying CS + Econ @ UIUC 
-- 💻 Check out my personal webpage [here!](http://kpulgari.com)
+- 📚 Studying CS + Econ @ UIUC
+- 💻 Check out my webpage [here!](http://kpulgari.com)
+- 🔨 Currently building [Modulo](http://projectmodulo.com), a project collaboration tool designed to connect creators across the globe.
