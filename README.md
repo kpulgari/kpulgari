@@ -1,4 +1,4 @@
 # Hey, I'm Kaushik! 👋
 
-- 📚 Studying CS + Econ @ UIUC
+- 📚 CS + Econ @ UIUC '25
 - 💻 Check out my webpage [here!](http://kpulgari.com)
